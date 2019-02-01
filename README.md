@@ -37,9 +37,10 @@
 
 #### Webpack
 
-## Handy Tools
-- [dbdiagram.io](https://aws.amazon.com/caching/database-caching/) - Create db diagrams.
+## Handy Tools (all free!)
+- [dbdiagram.io](https://dbdiagram.io) - Create db diagrams.
 - [draw.io](https://www.draw.io/) - Good for whipping up a wireframe or whatnot.
 - [cubic-bezier.com](http://cubic-bezier.com) - Quick and dirty bezier tool for CSS animations, etc.
+- [bulkresizephotos.com](https://bulkresizephotos.com/) - Resize a collection of photos with plenty of options. Good for making thumbnails, etc.
 
 
