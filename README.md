@@ -19,28 +19,23 @@
 - [Intro to Service Workers](https://youtu.be/jVfXiv03y5c)
 
 ## Articles
-- #### Database
+#### Database
   - [DB Caching (AWS)](https://aws.amazon.com/caching/database-caching/)
-- #### CSS
-- #### Hosting
+#### CSS
+#### Hosting
   - [HTTPS static site with S3, CloudFront, and GoDaddy](https://medium.com/@brodartec/hosting-a-static-site-with-https-enabled-using-aws-s3-cloudfront-and-godaddy-826dae41fdc6)
 
-- #### JavaScript
-  - #### React
-    - [Inline functions and performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
-  - #### CSS-in-JS
-    - Emotion
-  - #### State Managment
-    - Redux
-    - MobX
+#### JavaScript
+- #### React
+  - [Inline functions and performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
 
-- #### PHP
-  - #### Laravel
+#### PHP
+- #### Laravel
 
-- #### Ruby
-  - #### Rails
+#### Ruby
+- #### Rails
 
-- #### Webpack
+#### Webpack
 
 ## Handy Tools
 - [dbdiagram.io](https://aws.amazon.com/caching/database-caching/) - Create db diagrams.
