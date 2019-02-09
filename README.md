@@ -6,21 +6,22 @@
 
 ##### *A Young Man's Attempt To Understand The Intricacies Of The Internet And How Everything Fits Together*
 ---
+## Getting Started
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 ## Personal Notes
-
 - [JavaScript Notes for Noobs](./javascript/js_intro.md)
-
 - [React / Redux Intro](./javascript/react/react_intro.md)
-
 - [Node Backend with MongoDB & Express](./javascript/node/node_backend.md) - Incomplete/crappy notes
 
 ## Videos
 - [Intro to Service Workers](https://youtu.be/jVfXiv03y5c)
+- [Install MySQL on mac](https://youtu.be/UcpHkYfWarM)
 
 ## Articles
 #### Database
   - [DB Caching (AWS)](https://aws.amazon.com/caching/database-caching/)
+  - [MySQL command cheatsheet](https://gist.github.com/hofmannsven/9164408)
 #### CSS
 #### Hosting
   - [HTTPS static site with S3, CloudFront, and GoDaddy](https://medium.com/@brodartec/hosting-a-static-site-with-https-enabled-using-aws-s3-cloudfront-and-godaddy-826dae41fdc6)
@@ -34,6 +35,9 @@
 
 #### Ruby
 - #### Rails
+
+#### Server
+- [Web Server vs App Server](https://www.justinweiss.com/articles/a-web-server-vs-an-app-server/)
 
 #### Webpack
 
