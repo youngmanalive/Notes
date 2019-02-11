@@ -8,8 +8,9 @@
 ---
 ## Getting Started
 - [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [How Webpages are Loaded and Displayed](https://varvy.com/pagespeed/display.html)
 
-# Personal Notes
+## Notes
 - [JavaScript Notes for Noobs](./javascript/js_intro.md)
 - [React / Redux Intro](./javascript/react/react_intro.md)
 - [Node Backend with MongoDB & Express](./javascript/node/node_backend.md) - Incomplete/crappy notes
@@ -18,7 +19,7 @@
 - [Intro to Service Workers](https://youtu.be/jVfXiv03y5c)
 - [Install MySQL on mac](https://youtu.be/UcpHkYfWarM)
 
-# Articles
+# Reading Material
 ### Database
   - [DB Caching (AWS)](https://aws.amazon.com/caching/database-caching/)
   - [MySQL command cheatsheet](https://gist.github.com/hofmannsven/9164408)
@@ -29,6 +30,7 @@
 ### JavaScript
 - #### React
   - [Inline functions and performance](https://cdb.reacttraining.com/react-inline-functions-and-performance-bdff784f5578)
+  - [How to NOT React](https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd)
 
 ### Server
 - [Web Server vs App Server](https://www.justinweiss.com/articles/a-web-server-vs-an-app-server/)
